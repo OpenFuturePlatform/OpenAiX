@@ -4,7 +4,7 @@ Welcome to our Public AI Chat Assistant App repository! This project aims to cre
 
 Open is now developing privately in a private repo project represented by this Repo. This project aims to combine Open's infrastructure with AI & communications technology.
 
-- [Technology implementation](#technology-implementation)gi
+- [Technology implementation](#technology-implementation)
     - [Kotlin used](#kotlin-used)
     - [KMP used](#kotlin-multi-platform-used)
     - [Solution architecture](#solution-architecture)
