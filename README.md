@@ -152,12 +152,14 @@ native programming.
 
 <table style="width:100%">
   <tr>
+    <th>Wallet Generate Screen</th>
     <th>Wallet List Screen</th>
     <th>Wallet Detail Screen</th>
     <th>Wallet Receive Screen</th>
 
   </tr>
   <tr>
+    <td><img src = "art/android_screenshots/android_wallet_generate.png" width=240/></td>
     <td><img src = "art/android_screenshots/android_wallet_list.png" width=240/></td>
     <td><img src = "art/android_screenshots/android_wallet_detail.png" width=240/></td>
     <td><img src = "art/android_screenshots/android_wallet_receive.png" width=240/></td>
