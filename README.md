@@ -183,4 +183,7 @@ native programming.
   </tr>
 </table>
 
+## OpenAiX App Diagram
+
+![OpenAiX App Diagram](art/openaix-mobile-architect.png)
 ---
