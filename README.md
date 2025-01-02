@@ -186,4 +186,23 @@ native programming.
 ## OpenAiX App Diagram
 
 ![OpenAiX App Diagram](art/openaix-mobile-architect.png)
+
+## OpenAiX instructions
+
+- [OpenAiX Backend](https://github.com/OpenFuturePlatform/OpenChat)
+  - clone the repository
+  - setup database, aws, openai and firebase credentials in `application.yml` file
+  - run `./gradlew clean build` to build the project
+  - run `./gradlew run` to start the server
+  - clone [Open State](https://github.com/OpenFuturePlatform/open-state) repository
+  - run `./gradlew clean build` to build the project
+  - run `./gradlew run` to start the open state server
+- [OpenAiX KMP Mobile](https://github.com/OpenFuturePlatform/OpenChat)
+    - clone the repository
+    - setup backend url in `Endpoints.kt` file
+    - setup `google-services.json` file in `app` module
+    - setup device for development
+    - run `./gradlew clean build` to build the project
+    - run `./gradlew run` to start the server
+
 ---
